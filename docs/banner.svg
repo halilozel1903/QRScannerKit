@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="QRScannerKit: QR and barcode scanning for SwiftUI" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3MGExYmYyOS1kMjFlLTQyZGQtODc4Zi1hN2I5ZTYzYTFjZjMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBu006lNh2R5qNlqiXde31UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1N2JiMWViMy0xMmJmLTQ2NjgtYTRhZC0wOTM3NDJlNzJmYmZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNou8fKKS4ou3usszlOOsMFRgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggStt8PckRZKbYQi0sfcrIuoPTEb77FXF+bG7toNpZZ6+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJlUclBkkJEjkmobDDGA4T4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBx4d8RyY8/RToAd9wT9RqjNwGCDnkhHPqbYQsEiafpU2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjiZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjcwYTFiZjI5LWQyMWUtNDJkZC04NzhmLWE3YjllNjNhMWNmMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc5MzY0ZGM4LTQ0ZmItNGE0Yi1iYWMxLTVjMmI5MGVlMDNiZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBK23w9yRFkpthCLSx9ysi6g9MRvvsVcX5sbu2g2llnr6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggUWaEJ07fY7nfzC/W4HWEAHV6zkLMaNwEJdbA8mYYJ/6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggH7VddvkG0zC+2oERFH7iBqEFIPfjdSwk4pIzozNlIzh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJIWxcH98P53hwr2rPoWJpLkvt2PUfmKolhj4ZeTHCY7AJwtEMkSgOp5MgoLXm2UOMCnrvei225DJGLEJAoHc5s=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a33"/>
+      <stop offset="1" stop-color="#062a30"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#296bff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#296bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0db8c7" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0db8c7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8c5c3d"/>
+      <stop offset="1" stop-color="#5e3a25"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#296bff"/>
+      <stop offset="1" stop-color="#0db8c7"/>
+    </linearGradient>
+    <linearGradient id="scanline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5eead4" stop-opacity="1"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+    <clipPath id="phoneScreen">
+      <rect x="812" y="52" width="232" height="476" rx="36"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <circle cx="930" cy="150" r="250" fill="url(#blob1)" filter="url(#blur)"/>
+  <circle cx="1170" cy="470" r="220" fill="url(#blob2)" filter="url(#blur)"/>
+
+  <g font-family="-apple-system, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="80" y="225" fill="#ffffff" font-size="68" font-weight="800" letter-spacing="-2">QRScannerKit</text>
+    <text x="82" y="280" fill="#cfe3ff" font-size="27" font-weight="500">QR and barcode scanning for SwiftUI</text>
+    <text x="82" y="316" fill="#8fb3c9" font-size="21" font-weight="500">iPhone · iPad · one view</text>
+    <g font-size="19" font-weight="600">
+      <rect x="82" y="350" width="134" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="149" y="376" fill="#e0f2fe" text-anchor="middle">VisionKit</text>
+      <rect x="228" y="350" width="162" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="309" y="376" fill="#e0f2fe" text-anchor="middle">AVFoundation</text>
+      <rect x="402" y="350" width="168" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="486" y="376" fill="#e0f2fe" text-anchor="middle">Torch &amp; zoom</text>
+      <rect x="82" y="402" width="172" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="168" y="428" fill="#e0f2fe" text-anchor="middle">Wi-Fi · vCard</text>
+      <rect x="266" y="402" width="112" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="322" y="428" fill="#e0f2fe" text-anchor="middle">Swift 6</text>
+      <rect x="390" y="402" width="84" height="40" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.25"/>
+      <text x="432" y="428" fill="#e0f2fe" text-anchor="middle">SPM</text>
+    </g>
+
+    <!-- iPhone: the scanner over a cafe table with a Wi-Fi card -->
+    <g filter="url(#shadow)">
+      <rect x="800" y="40" width="256" height="500" rx="46" fill="#11161d" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5"/>
+    </g>
+    <g clip-path="url(#phoneScreen)">
+      <rect x="812" y="52" width="232" height="476" fill="url(#wood)"/>
+      <g stroke="#3a2214" stroke-opacity="0.35" stroke-width="1.5">
+        <line x1="872" y1="52" x2="872" y2="528"/>
+        <line x1="946" y1="52" x2="946" y2="528"/>
+        <line x1="1020" y1="52" x2="1020" y2="528"/>
+      </g>
+      <circle cx="1020" cy="480" r="58" fill="#f5f5f4"/>
+      <circle cx="1020" cy="480" r="38" fill="#7b4a2a"/>
+      <rect x="796" y="70" width="90" height="120" rx="8" fill="#fbf6ea" transform="rotate(-18 841 130)"/>
+
+      <!-- printed card -->
+      <g filter="url(#cardShadow)" transform="rotate(-2 928 240)">
+        <rect x="856" y="140" width="144" height="200" rx="10" fill="#ffffff"/>
+        <path d="M856 150 a10 10 0 0 1 10 -10 h124 a10 10 0 0 1 10 10 v30 h-144 z" fill="#17545c"/>
+        <text x="928" y="166" fill="#ffffff" font-size="13" font-weight="800" text-anchor="middle">Harbor Café</text>
+        <g transform="translate(865 189)">
+        <rect x="0" y="0" width="42" height="42" fill="#0f172a"/>
+        <rect x="6" y="6" width="30" height="30" fill="#ffffff"/>
+        <rect x="12" y="12" width="18" height="18" fill="#0f172a"/>
+        <rect x="84" y="0" width="42" height="42" fill="#0f172a"/>
+        <rect x="90" y="6" width="30" height="30" fill="#ffffff"/>
+        <rect x="96" y="12" width="18" height="18" fill="#0f172a"/>
+        <rect x="0" y="84" width="42" height="42" fill="#0f172a"/>
+        <rect x="6" y="90" width="30" height="30" fill="#ffffff"/>
+        <rect x="12" y="96" width="18" height="18" fill="#0f172a"/>
+        <rect x="54" y="6" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="6" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="12" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="12" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="12" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="18" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="18" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="18" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="24" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="24" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="30" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="30" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="30" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="30" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="36" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="36" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="36" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="42" width="6" height="6" fill="#0f172a"/>
+        <rect x="6" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="36" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="42" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="48" width="6" height="6" fill="#0f172a"/>
+        <rect x="12" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="24" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="54" width="6" height="6" fill="#0f172a"/>
+        <rect x="0" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="18" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="36" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="108" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="60" width="6" height="6" fill="#0f172a"/>
+        <rect x="0" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="18" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="24" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="66" width="6" height="6" fill="#0f172a"/>
+        <rect x="18" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="24" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="30" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="36" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="108" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="72" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="78" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="78" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="78" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="78" width="6" height="6" fill="#0f172a"/>
+        <rect x="60" y="84" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="84" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="84" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="84" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="90" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="90" width="6" height="6" fill="#0f172a"/>
+        <rect x="90" y="90" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="90" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="96" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="96" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="102" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="102" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="102" width="6" height="6" fill="#0f172a"/>
+        <rect x="108" y="102" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="102" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="72" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="90" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="108" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="108" width="6" height="6" fill="#0f172a"/>
+        <rect x="48" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="78" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="84" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="90" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="96" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="102" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="120" y="114" width="6" height="6" fill="#0f172a"/>
+        <rect x="54" y="120" width="6" height="6" fill="#0f172a"/>
+        <rect x="66" y="120" width="6" height="6" fill="#0f172a"/>
+        <rect x="90" y="120" width="6" height="6" fill="#0f172a"/>
+        <rect x="108" y="120" width="6" height="6" fill="#0f172a"/>
+        <rect x="114" y="120" width="6" height="6" fill="#0f172a"/>
+        </g>
+        <text x="928" y="330" fill="#555" font-size="7.5" font-weight="600" text-anchor="middle">Scan to join the Wi-Fi</text>
+      </g>
+
+      <!-- dim outside the viewfinder -->
+      <path d="M812 52 h232 v476 h-232 z M852 180 a20 20 0 0 0 -20 20 v112 a20 20 0 0 0 20 20 h152 a20 20 0 0 0 20 -20 v-112 a20 20 0 0 0 -20 -20 z" fill="#000" fill-opacity="0.45" fill-rule="evenodd"/>
+      <!-- corners -->
+      <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M832 226 v-26 a20 20 0 0 1 20 -20 h26"/>
+        <path d="M978 180 h26 a20 20 0 0 1 20 20 v26"/>
+        <path d="M1024 286 v26 a20 20 0 0 1 -20 20 h-26"/>
+        <path d="M878 332 h-26 a20 20 0 0 1 -20 -20 v-26"/>
+      </g>
+      <rect x="848" y="262" width="160" height="2.5" fill="url(#scanline)"/>
+
+      <!-- controls -->
+      <circle cx="844" cy="90" r="16" fill="#ffffff" fill-opacity="0.18"/>
+      <path d="M838 84 l12 12 M850 84 l-12 12" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+      <circle cx="1012" cy="90" r="16" fill="#facc15"/>
+      <path d="M1008 81 h8 l-2 6 h3 l-8 12 l2 -8 h-4 z" fill="#111"/>
+      <circle cx="972" cy="90" r="16" fill="#ffffff" fill-opacity="0.18"/>
+      <rect x="964" y="84" width="16" height="12" rx="2" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect x="853" y="352" width="150" height="26" rx="13" fill="#000" fill-opacity="0.45"/>
+      <text x="928" y="369" fill="#ffffff" font-size="9.5" font-weight="600" text-anchor="middle">Point the camera at a QR code</text>
+      <rect x="884" y="470" width="88" height="34" rx="17" fill="#000" fill-opacity="0.45"/>
+      <text x="903" y="491" fill="#facc15" font-size="11" font-weight="800" text-anchor="middle">1×</text>
+      <text x="928" y="491" fill="#ffffff" font-size="11" font-weight="700" text-anchor="middle">2×</text>
+      <text x="953" y="491" fill="#ffffff" font-size="11" font-weight="700" text-anchor="middle">4×</text>
+    </g>
+    <rect x="890" y="62" width="76" height="22" rx="11" fill="#000"/>
+
+    <!-- result chip -->
+    <g filter="url(#shadow)">
+      <rect x="1062" y="200" width="176" height="118" rx="20" fill="#ffffff"/>
+    </g>
+    <rect x="1078" y="216" width="34" height="34" rx="9" fill="url(#brand)"/>
+    <path d="M1084 230 a16 16 0 0 1 22 0 M1088 235 a10 10 0 0 1 14 0" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="1095" cy="240" r="2.6" fill="#fff"/>
+    <text x="1122" y="229" fill="#64748b" font-size="10" font-weight="700">WI-FI NETWORK</text>
+    <text x="1122" y="245" fill="#0f172a" font-size="13" font-weight="800">Harbor Café</text>
+    <rect x="1078" y="266" width="144" height="34" rx="17" fill="url(#brand)"/>
+    <text x="1150" y="288" fill="#ffffff" font-size="13" font-weight="700" text-anchor="middle">Join Network</text>
+  </g>
+</svg>
