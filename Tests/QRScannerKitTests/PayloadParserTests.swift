@@ -185,7 +185,7 @@ struct MessagePayloadTests {
     }
 
     @Test func matmsg() {
-        let payload = ScanPayload(parsing: "MATMSG:TO:hello@example.com;SUB:Hi;BODY:See you\; soon;;")
+        let payload = ScanPayload(parsing: #"MATMSG:TO:hello@example.com;SUB:Hi;BODY:See you\; soon;;"#)
         #expect(payload == .email(Email(address: "hello@example.com", subject: "Hi", body: "See you; soon")))
     }
 
